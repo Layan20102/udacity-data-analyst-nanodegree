@@ -78,7 +78,7 @@ If extended, the analysis could include:
 | ------------------------------------ | -------------------------------------------- |
 | `raw_data_population_gdp.csv`        | Combined raw data (GDP and population)       |
 | `cleaned_data_population_gdp.csv`    | Cleaned and processed dataset                |
-| `population_vs_gdp_per_capita.ipynb` | Jupyter notebook with full code and analysis |
+| `Data_Wrangling_Project_Starter.ipynb` | Jupyter notebook with full code and analysis |
 | `README.md`                          | Project overview and documentation           |
 
 ---
