@@ -21,7 +21,6 @@ Using economic and demographic data from reliable sources, this analysis combine
 ### 2. **Population Data**
 
 * **Source:** Manually downloaded CSV from the World Population Dataset
-* **Years Covered:** 2010, 2015, 2020, 2022
 * **Additional features:** Country rank, area, density, growth rate, etc.
 
 ---
