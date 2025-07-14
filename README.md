@@ -1,4 +1,3 @@
-# udacity-data-analyst-nanodegree
 
 # Nanodegree Data Analysis Projects
 
